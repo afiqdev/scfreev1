@@ -4,7 +4,7 @@
 <h2 align="center">
 Auto Script Install XRAY/SSH Websocket Service
 Mod By ALIVE
-<img src="https://img.shields.io/badge/Release-v3.0-red.svg"></h2>
+
 
 </p> 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -71,7 +71,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y bzip2
    - OpenSSH                 : 22
    - SSH Websocket           : 80
    - SSH SSL Websocket       : 443
-   - Stunnel5                : 447, 777
+   - Stunnel5                : 447, 777 (ERROR)
    - Dropbear                : 109, 143
    - Badvpn                  : 7100-7300
    - Nginx                   : 81
